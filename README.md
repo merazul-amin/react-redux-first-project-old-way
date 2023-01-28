@@ -1,3 +1,2 @@
-## server
-
-server link : https://github.com/mir-hussain/moon-tech-server
+My First react-redux project. 
+Made with old system. redux store.
